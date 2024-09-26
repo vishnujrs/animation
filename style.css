@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://images.hdqwalls.com/download/sundown-landscape-minimalist-c6-1920x1080.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.panda {
+    margin-left:50px;
+    width: 100px;
+    image-rendering: ;
+}
+
+.Anime {
+    width:350px;
+    height: 150px;
+    margin-left: 1200px;
+}
+
+h1{
+    color: darkgrey;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+
+p{
+    color: rgb(227, 216, 216);
+    text-align: center;
+}
+
+.anime{
+
+}
